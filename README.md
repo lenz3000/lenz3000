@@ -15,7 +15,7 @@ Hi! I'm **Lorenz Vaitl**, a PhD graduate in **Machine Learning** from **Technisc
     Technische Universität Berlin  
   - M.Sc. in Computer Science, 2019  
     Technische Universität Berlin
-  - B. Sc. in Computer Science, 2015
+  - B. Sc. in Computer Science, 2015   
     RWTH Aachen
 
 ---
@@ -42,7 +42,7 @@ Hi! I'm **Lorenz Vaitl**, a PhD graduate in **Machine Learning** from **Technisc
 ## 📫 Let's Connect!  
 - **[LinkedIn](https://www.linkedin.com/in/lorenz-vaitl/)**  
 - **[Google Scholar](https://scholar.google.de/citations?user=ipYrOMEAAAAJ)**
-- **[My CV](https://github.com/lenz3000/lenz3000/main/CV2025.pdf)**  
+- **[My CV](https://github.com/lenz3000/lenz3000/main/CV2024.pdf)**  
 
 
 Feel free to explore my repositories for more insights into my research and coding projects.
