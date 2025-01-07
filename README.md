@@ -1,5 +1,3 @@
-# Welcome to My GitHub 👋
-
 Hi! I'm **Lorenz Vaitl**, a PhD graduate in **Machine Learning** from **Technische Universität Berlin** (2024). Over the past few years, I've been deeply involved in **researching and teaching**, focusing on **generative models** and their applications to Quantum Field Theory and Variational Inference.
 
 ---
