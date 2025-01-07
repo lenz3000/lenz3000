@@ -26,7 +26,7 @@ Hi! I'm **Lorenz Vaitl**, a PhD graduate in **Machine Learning** from **Technisc
   We derived a highly efficient Continuous Normalizing Flow for simulating Lattice Gauge Theories. The Model contains all the symmetries of the Theory and set a new state of the art.  
 
 - **Path Gradients**:
-  The major focus of my research was on deriving low-variance gradient estimators for Normalizing Flows. We published three papers at [ICML 2022](https://proceedings.mlr.press/v162/vaitl22a.html)(oral), [ICLR 2024](https://openreview.net/forum?id=zlkXLb3wpF&noteId=S0GjQTr3qO), and in [MLST](https://iopscience.iop.org/article/10.1088/2632-2153/ac9455/meta), with every contribution covering a different aspect from generalizations, thorough analysis and efficient algorithms.
+  The major focus of my research was on deriving low-variance gradient estimators for Normalizing Flows. We published three papers at [ICML 2022](https://proceedings.mlr.press/v162/vaitl22a.html)(oral), [ICLR 2024](https://openreview.net/forum?id=zlkXLb3wpF&noteId=S0GjQTr3qO), and in [MLST](https://iopscience.iop.org/article/10.1088/2632-2153/ac9455/meta), with every contribution covering a different aspect from generalizations of path gradients, thorough analysis and efficient algorithms for various architectures and loss functions.
 
 
 ---
